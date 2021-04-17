@@ -142,3 +142,27 @@ $_FILES - 파일을 가져와서 쓰는 정의된 문자.
 
 ini_set - php.ini 설정을 변경해서 사용하는것
 basename - 경로를 제거 하고 파일의 이름만 가져옴 (보안)
+
+
+
+데이터베이스
+
+mysql 접속
+mysql -uroot -p111111 -hlocalhost
+
+db 선택
+use db이름 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
