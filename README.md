@@ -17,9 +17,11 @@ https://opentutorials.org/course/1
 2021-04-11일
 현재 섹션 15까지 완료 후 커밋
 
+2021-04-18일
+현재 섹션 17까지 완료 후 커밋
 
-
-
+2021-04-26일
+전체 완료 후 커밋
 
 
 
@@ -154,7 +156,8 @@ db 선택
 use db이름 
 
 
-
+php.net > document (영문)
+http://php.net/manual/kr/index.php (한국어)
 
 
 
